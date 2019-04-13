@@ -1,0 +1,132 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1900px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u4110_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1559px;
+  height:832px;
+}
+#u4110 {
+  border-width:0px;
+  position:absolute;
+  left:11px;
+  top:6px;
+  width:1559px;
+  height:832px;
+}
+#u4110_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4111_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:620px;
+  height:406px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4111 {
+  border-width:0px;
+  position:absolute;
+  left:481px;
+  top:182px;
+  width:620px;
+  height:406px;
+}
+#u4111_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4112_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:205px;
+  height:205px;
+}
+#u4112 {
+  border-width:0px;
+  position:absolute;
+  left:689px;
+  top:291px;
+  width:205px;
+  height:205px;
+}
+#u4112_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4113_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:170px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  text-align:left;
+}
+#u4113 {
+  border-width:0px;
+  position:absolute;
+  left:1600px;
+  top:237px;
+  width:300px;
+  height:170px;
+  text-align:left;
+}
+#u4113_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:53px;
+  width:296px;
+  word-wrap:break-word;
+}
